@@ -97,3 +97,36 @@ async function yourProgram(){
 yourProgram();
 ```
 </details>
+
+# Methods (Functions) for the CACHE-CLIENT(s)
+
+- get(key)
+- set(key)
+- add(key, amount)
+- push(key, element)
+- has(key)
+- delete(key)
+- clear() *clears the whole cache Map*
+- all() / values() *array of all values*
+- entries() *array of [key, value]*
+- keys() *array of all keys*
+- ping() *shows the ping*
+- size() *shows the cache-map-size*
+
+# Events for the CACHE-SERVER
+
+- serverReady *shows when the server is ready, you don't need to listen to it!*
+- serverError *shows when the server errors, you don't need to listen to it!*
+- serverClose *shows when the server closes, you don't need to listen to it!*
+- serverConnect *shows when a client connects, you don't need to listen to it!*
+- serverDisconnect *shows when a client disconnects, you don't need to listen to it!*
+- serverMessage *receives messages from a cache-client, you don't need to listen to it!*
+- serverRequest *received requets from a cache-client, used for sending the cache datas, you don't need to listen to it!*
+- 
+# Events for the CACHE-Client(s)
+
+- cacheReady *shows when the server is ready, you don't need to listen to it!*
+- cacheError *shows when the server errors, you don't need to listen to it!*
+- cacheClose *shows when the server closes, you don't need to listen to it!*
+- cacheMessage *receives messages from the cache-server, you don't need to listen to it!*
+- cacheRequest *receives requets from the cache-server, you don't need to listen to it!*
