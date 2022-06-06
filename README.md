@@ -1,10 +1,27 @@
+<div align="center">
+  <p> 
+    <a href="https://discord.gg/milrato" title="Join our Discord Server"><img alt="Built with Love" src="https://forthebadge.com/images/badges/built-with-love.svg"></a>
+    <a href="https://discord.gg/milrato" title="Join our Discord Server"><img alt="Made with Javascript" src="https://forthebadge.com/images/badges/made-with-javascript.svg"></a>
+  </p>
+  <p>
+    <a href="https://discord.gg/milrato"><img src="https://discord.com/api/guilds/773668217163218944/embed.png" alt="Discord server"/></a>
+    <a href="https://www.npmjs.com/package/remote-map-cache"><img src="https://img.shields.io/npm/v/remote-map-cache.svg?maxAge=3600" alt="NPM version" /></a>
+    <a href="https://www.npmjs.com/package/remote-map-cache"><img src="https://img.shields.io/npm/dt/remote-map-cache.svg?maxAge=3600" alt="NPM downloads" /></a>
+    <a href="https://discord.gg/milrato"><img src="https://maintained.cc/SDBagel/Maintained/2?" alt="Get Started Now"></a>
+    <a href="https://www.paypal.com/MilratoDevelopment"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="Patreon" /></a>
+  </p>
+  <p>
+    <a href="https://nodei.co/npm/remote-map-cache/"><img src="https://nodei.co/npm/remote-map-cache.png?downloads=true&stars=true" alt="npm installnfo" /></a>
+  </p>
+</div>
+
 # remote-map-cache
 A remote nodejs Cache Server, for you to have your perfect MAP Cache Saved and useable remotely. Easy Server and Client Creations, fast, stores the Cache before stopping and restores it again!
 
 # Installation
 ```
 npm install https://github.com/Tomato6966/remote-map-cache
-npm install remote-map-cache # SOON
+npm install remote-map-cache
 ```
 
 # Usage
