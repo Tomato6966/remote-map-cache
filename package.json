@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "enmap": "^5.9.0",
+    "net-ipc": "^2.0.1"
+  },
+  "name": "remote-map-cache",
+  "version": "1.0.0",
+  "description": "A remote nodejs Cache Server, for you to have your perfect MAP Cache Saved and useable remotely. Easy Server and Client Creations, fast, stores the Cache before stopping and restores it again!",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomato6966/remote-map-cache.git"
+  },
+  "keywords": [
+    "remote",
+    "cache",
+    "ipc"
+  ],
+  "author": "Tomato#6966",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomato6966/remote-map-cache/issues"
+  },
+  "homepage": "https://github.com/tomato6966/remote-map-cache#readme"
+}
