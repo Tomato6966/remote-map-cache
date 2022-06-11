@@ -4,7 +4,7 @@
     "net-ipc": "^2.0.1"
   },
   "name": "remote-map-cache",
-  "version": "1.0.0",
+  "version": "1.3.0",
   "description": "A remote nodejs Cache Server, for you to have your perfect MAP Cache Saved and useable remotely. Easy Server and Client Creations, fast, stores the Cache before stopping and restores it again!",
   "main": "index.js",
   "directories": {
